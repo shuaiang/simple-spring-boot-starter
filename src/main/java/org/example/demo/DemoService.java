@@ -3,9 +3,6 @@ package org.example.demo;
 /**
  * 描述：随便定义一个Service
  *
- * @Author shf
- * @Date 2019/5/7 21:59
- * @Version V1.0
  **/
 public class DemoService {
     public String sayWhat;

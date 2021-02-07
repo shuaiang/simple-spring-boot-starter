@@ -5,9 +5,6 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * 描述：配置信息 实体
  *
- * @Author shf
- * @Date 2019/5/7 22:08
- * @Version V1.0
  **/
 @ConfigurationProperties(prefix = "demo")
 public class DemoProperties {
